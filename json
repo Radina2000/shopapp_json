@@ -1,0 +1,202 @@
+{
+  "categories": [
+    {
+      "id": 1,
+      "title": "Bratari"
+    },
+    {
+      "id": 2,
+      "title": "Talismane"
+    },
+    {
+      "id": 3,
+      "title": "Inele"
+    },
+     {
+      "id": 4,
+      "title": "Cercei"
+    },
+     {
+      "id": 5,
+      "title": "Coliere"
+    }
+    
+  ],
+  "products": [
+    {
+      "id": 1,
+      "pret":"259",
+      "descriere":"Brățară PANDORA Reflexions din argint 925",
+      "url": "https://cdn.shopify.com/s/files/1/0521/8009/1068/products/597712_RGB_1024x1024@2x.png?v=1609855531",
+      "categoryId": 1
+    },
+    {
+      "id": 2,
+      "pret":"299",
+      "descriere":"Brățară tip lanț clasic cu închizătoare în formă de inimă cu arbore genealogic Pandora Moments",
+      "url": "https://cdn.shopify.com/s/files/1/0521/8009/1068/products/PNGTRPNT_598827C01_RGB_1024x1024@2x.png?v=1609855301",
+      "categoryId": 1
+    },
+     {
+      "id": 3,
+      "pret":"339",
+      "descriere":"Brățară tip lanț clasic cu O cu coroană Pandora Moments",
+      "url": "https://cdn.shopify.com/s/files/1/0521/8009/1068/products/PNGTRPNT_598286CZ_RGB_2b285bcb-00d7-4d81-bb34-7b1341f25493_1024x1024@2x.png?v=1609868835",
+      "categoryId": 1
+    },
+     {
+      "id": 4,
+      "pret":"209",
+      "descriere":"Brăţară Moments din piele, în şir dublu împletit, negru",
+      "url": "https://cdn.shopify.com/s/files/1/0521/8009/1068/products/590745CBK-D_RGB_1024x1024@2x.png?v=1609844827",
+      "categoryId": 1
+    },
+    {
+      "id": 5,
+      "pret":"429",
+      "descriere":"Brățară fixă cu inimă wishbone strălucitoare",
+      "url": "https://cdn.shopify.com/s/files/1/0521/8009/1068/products/599297C01_RGB_1024x1024@2x.png?v=1610121800",
+      "categoryId": 1
+    },
+     {
+      "id": 6,
+      "pret":"209",
+      "descriere":"Talisman cu Mickey Mouse cu pantaloni roșii de la Disney",
+      "url": "https://cdn.shopify.com/s/files/1/0521/8009/1068/products/PNGTRPNT_798905C01_RGB_1024x1024@2x.png?v=1614789452",
+      "categoryId": 2
+    },
+    {
+      "id": 7,
+      "pret":"109",
+      "descriere":"Talisman dedicat iubirii, cu fagure de miere",
+      "url": "https://cdn.shopify.com/s/files/1/0521/8009/1068/products/PNGTRPNT_798769C00_RGB_1024x1024@2x.png?v=1614789546",
+      "categoryId": 2
+    },
+    {
+      "id": 8,
+      "pret":"209",
+      "descriere":"Talisman cu margaretă albastră",
+      "url": "https://cdn.shopify.com/s/files/1/0521/8009/1068/products/PNGTRPNT_798775C01_RGB_1024x1024@2x.png?v=1614789441",
+      "categoryId": 2
+    },
+    {
+      "id": 9,
+      "pret":"259",
+      "descriere":"Talisman bicicletă din argint 925, cu zirconiu cubic",
+      "url": "https://cdn.shopify.com/s/files/1/0521/8009/1068/products/PNGTRPNT_797858CZ_V2_RGB_1024x1024@2x.png?v=1614787115",
+      "categoryId": 2
+    },
+     {
+      "id": 10,
+      "pret":"259",
+      "descriere":"Talisman Stea-de-mare şi scoică din argint 925, cu zirconiu cubic verde-mentă şi transparent",
+      "url": "https://cdn.shopify.com/s/files/1/0521/8009/1068/products/PNGTRPNT_792076CZF_RGB_1024x1024@2x.png?v=1614788983",
+      "categoryId": 2
+    },
+     {
+      "id": 11,
+      "pret":"379",
+      "descriere":"Inel cu halo dublu strălucitor",
+      "url": "https://cdn.shopify.com/s/files/1/0521/8009/1068/products/199408C01_RGB_1024x1024@2x.png?v=1618322841",
+      "categoryId": 3
+    },
+     {
+      "id": 12,
+      "pret":"299",
+      "descriere":"Inel eleganta atemporala albastra",
+      "url": "https://cdn.shopify.com/s/files/1/0521/8009/1068/products/PNGTRPNT_198863C02_RGB_1024x1024@2x.png?v=1613483831",
+      "categoryId": 3
+    },
+    {
+      "id": 13,
+      "pret":"339",
+      "descriere":"Inel de tip wishbone cu tăiere tip marchiză și pară strălucitoare",
+      "url": "https://cdn.shopify.com/s/files/1/0521/8009/1068/products/199109C01_RGB_1024x1024@2x.png?v=1609874096",
+      "categoryId": 3
+    },
+     {
+      "id": 14,
+      "pret":"299",
+      "descriere":"Inel strălucitor în formă de iadeș",
+      "url": "https://cdn.shopify.com/s/files/1/0521/8009/1068/products/198420C01_RGB_dfddf183-f885-4feb-8f22-118cd9f27bc3_1024x1024@2x.png?v=1609877166",
+      "categoryId": 3
+    },
+     {
+      "id": 15,
+      "pret":"299",
+      "descriere":"Inel dorință de prințesă",
+      "url": "https://cdn.shopify.com/s/files/1/0521/8009/1068/products/197736CZ_RGB_1024x1024@2x.png?v=1609877111",
+      "categoryId": 3
+    },
+    {
+      "id": 16,
+      "pret":"339",
+      "descriere":"Cercei cu șurub cu halo dublu strălucitor",
+      "url": "https://cdn.shopify.com/s/files/1/0521/8009/1068/products/299411C01_RGB_1024x1024@2x.png?v=1618322417",
+      "categoryId": 4
+    },
+    {
+      "id": 17,
+      "pret":"339",
+      "descriere":"Cercei frumusețe glacială",
+      "url": "https://cdn.shopify.com/s/files/1/0521/8009/1068/products/PNGTRPNT_297545CZ_RGB_1024x1024@2x.png?v=1614787898",
+      "categoryId": 4
+    },
+     {
+      "id": 18,
+      "pret":"239",
+      "descriere":"Cercei rotunzi cu mărgele cu stele și semilună",
+      "url": "https://cdn.shopify.com/s/files/1/0521/8009/1068/products/PNGTRPNT_299152C01_RGB_0e49ab7f-8fc7-4da8-b2c3-e80aa6bc86e9_1024x1024@2x.png?v=1609872152",
+      "categoryId": 4
+    },
+    {
+      "id": 19,
+      "pret":"189",
+      "descriere":"Cercei strălucitori cu aripi de îngeri și șurub",
+      "url": "https://cdn.shopify.com/s/files/1/0521/8009/1068/products/298501C01_RGB_1024x1024@2x.png?v=1609844833",
+      "categoryId": 4
+    },
+    {
+      "id": 20,
+      "pret":"259",
+      "descriere":"Cercei contur de fluturi",
+      "url": "https://cdn.shopify.com/s/files/1/0521/8009/1068/products/297912CZ_RGB_441a401c-e59c-4a0a-9409-ded993107e4b_1024x1024@2x.png?v=1609869050",
+      "categoryId": 4
+    },
+    {
+      "id": 21,
+      "pret":"339",
+      "descriere":"Colier dorință strălucitoare",
+      "url": "https://cdn.shopify.com/s/files/1/0521/8009/1068/products/397802CZ_RGB_1024x1024@2x.png?v=1620399300",
+      "categoryId": 5
+    },
+     {
+      "id": 22,
+      "pret":"509",
+      "descriere":"Colier cu mărgele în stil pavé",
+      "url": "https://cdn.shopify.com/s/files/1/0521/8009/1068/products/PNGTRPNT_398565C01_RGB_1024x1024@2x.png?v=1614787323",
+      "categoryId": 5
+    },
+      {
+      "id": 23,
+      "pret":"339",
+      "descriere":"Colier cu inimă pavé și aripi de înger",
+      "url": "https://cdn.shopify.com/s/files/1/0521/8009/1068/products/398505C01_RGB_66f5d5fd-f73d-4107-a595-f2912d349d7f_1024x1024@2x.png?v=1609871918",
+      "categoryId": 5
+    },
+     {
+      "id": 24,
+      "pret":"509",
+      "descriere":"Colier cu arborele familiei",
+      "url": "https://cdn.shopify.com/s/files/1/0521/8009/1068/products/390384CZ_RGB_73fff9ee-a8c1-4367-9234-02fc70e08aad_1024x1024@2x.png?v=1609873148",
+      "categoryId": 5
+    },
+    {
+      "id": 25,
+      "pret":"299",
+      "descriere":"Colier strălucitor de tip infinity",
+      "url": "https://cdn.shopify.com/s/files/1/0521/8009/1068/products/PNGTRPNT_398821C01_RGB_c4b9ade2-9d05-49b2-bf40-5e843f33cfc0_1024x1024@2x.png?v=1609876270",
+      "categoryId": 5
+    }
+  ]
+}
